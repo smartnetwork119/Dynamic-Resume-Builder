@@ -199,5 +199,10 @@ h2 {
         padding: 5px 5px;
         
     }
-
+ .resume-wrapper {
+       
+        width: 95%;
+        
+        margin: 5px;
+    }
 }
